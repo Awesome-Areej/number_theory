@@ -1,3 +1,3 @@
 # number_theory
 
-Properties of the $\zeta$ function
+Properties of the $\zeta$ function. 
